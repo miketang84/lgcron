@@ -15,7 +15,7 @@ lgcron 是一个定时任务守护器。
 1. [lua-ev](https://github.com/brimworks/lua-ev);
 2. [bamboo-log](https://github.com/daogangtang/bamboo-log);
 3. [luadaemon](https://github.com/smherwig/lua-daemon.git);
-4. [lualoggin](luarocks install lualogging);
+4. [lualogging](luarocks install lualogging);
 
 
 
