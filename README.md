@@ -10,5 +10,14 @@ lgcron 是一个定时任务守护器。
     repeated_time:	重复间隔时间
 ```
 
+依赖：
+
+1. [lua-ev](https://github.com/brimworks/lua-ev);
+2. [bamboo-log](https://github.com/daogangtang/bamboo-log);
+3. [luadaemon](https://github.com/smherwig/lua-daemon.git);
+4. [lualoggin](luarocks install lualogging);
+
+
+
 注意：本脚本用的时区是中国标准时间。
 
